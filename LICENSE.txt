@@ -4,3 +4,4 @@ Creating a new branch is quick AND simple
 my git learn root
 jiangxi normal university
 I LOVE CCNU
+Beijing Normal University
