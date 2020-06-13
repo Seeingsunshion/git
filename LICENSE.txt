@@ -2,5 +2,3 @@ I Love ShangHai!
 today is 20200612
 Creating a new branch is quick AND simple
 my git learn root
-jiangxi normal university
-
